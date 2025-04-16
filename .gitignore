@@ -1,0 +1,14 @@
+/debug
+.vs
+TheMaze/Debug
+TheMaze.sln
+TheMaze\TheMaze.vcxproj.user
+TheMaze\TheMaze/TheMaze\TheMaze.vcxproj.filters
+TheMaze\TheMaze.vcxproj
+TheMaze\TheMaze.ui
+TheMaze\TheMaze.qrc
+TheMaze/TheMaze.qrc
+TheMaze/TheMaze.ui
+TheMaze/TheMaze.vcxproj
+TheMaze/TheMaze.vcxproj.filters
+TheMaze/TheMaze.vcxproj.user
